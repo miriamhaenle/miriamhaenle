@@ -7,6 +7,6 @@ So long...
 - 🌱 I’m currently learning advanced react features
 - 👯 I’m looking to collaborate on fun frontend projects!
 - 🤔 I’m looking for help with becoming a badass software developer
-- 💬 Ask me about agile!
+- 💬 Ask me about agile, scrum, triathlon or plant based recipes!
 - ⚡ Fun fact: I only have one wisdome tooth 🦷
 
