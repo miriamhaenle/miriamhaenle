@@ -8,5 +8,5 @@ So long...
 - 👯 I’m looking to collaborate on fun frontend projects!
 - 🤔 I’m looking for help with becoming a badass software developer
 - 💬 Ask me about agile!
-- ⚡ Fun fact: I only have one wisdome tooth.
+- ⚡ Fun fact: I only have one wisdome tooth 🦷
 
