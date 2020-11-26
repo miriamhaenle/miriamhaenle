@@ -3,7 +3,7 @@
 More information will follow soon.
 So long...
 
-- 🔭 I’m currently working on a new app for cylists.... stay tuned
+- 🔭 I’m currently working on a new app for cyclists.... stay tuned
 - 🌱 I’m currently learning advanced react features
 - 👯 I’m looking to collaborate on fun frontend projects!
 - 🤔 I’m looking for help with becoming a badass software developer
