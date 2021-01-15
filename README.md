@@ -10,3 +10,7 @@ So long...
 - 💬 Ask me about agile, scrum, triathlon or plant based recipes!
 - ⚡ Fun fact: I only have one wisdome tooth 🦷
 
+
+[![miriams's github stats](https://github-readme-stats.vercel.app/api?username=miriamhaenle&show_icons=true&theme=synthwave)](https://github.com/miriamhaenle/github-readme-stats)
+
+[![miriams's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miriamhaenle)](https://github.com/anuraghazra/github-readme-stats)
